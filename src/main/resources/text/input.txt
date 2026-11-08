@@ -1,0 +1,2 @@
+Java makes text processing clear. A word and a WORD can repeat!
+Patterns help us build flexible programs. Hello beautiful world!
